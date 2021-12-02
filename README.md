@@ -1,2 +1,2 @@
 # INFO_523_Final
-Code for syntactic analysis project for INFO 523, University of Arizona
+Final Project files - INFO 523 - Fall 2021 - University of Arizona - Shane Freeborn and Robert Gray
